@@ -1,16 +1,23 @@
 h1, .jumbotron {
 	text-align: center;
-	font-family: 'Amatic SC', cursive;
-	color: #fff;
+  font-family: 'Amatic SC', cursive;
+  font-weight: bolder;
+	color: #ffffff;
 }
 
 .jumbotron {
-	background-image: url("../images/header-img.jpg");
+  background-image: url("../images/header-img.jpg");
+  height:300px;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 body {
 	font-family: 'Josefin Sans', sans-serif;
-	text-align: center;
+  text-align: center;
+  background-image: url("../images/sky.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 img {

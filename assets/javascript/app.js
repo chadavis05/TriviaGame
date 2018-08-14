@@ -164,7 +164,7 @@ $(document).ready(function(){
       }
       else if(count === 1) {
           $("#image-holder").show();
-          $("#image-holder").html('<img src="assets/images/goosedriver.jpg">');
+          $("#image-holder").html('<img src="assets/images/truckdriver.jpg">');
       }
       else if(count === 2) {
           $("#image-holder").show();
@@ -176,19 +176,19 @@ $(document).ready(function(){
       }
       else if(count === 4) {
           $("#image-holder").show();
-          $("#image-holder").html('<img src="https://media.giphy.com/media/yx0JMbLoVvqA8/giphy.gif">');
+          $("#image-holder").html('<img src="assets/images/goosedown.jpg">');
       }
       else if(count === 5) {
           $("#image-holder").show();
-          $("#image-holder").html('<img src="assets/images/phoenix.jpg">');
+          $("#image-holder").html('<img src="https://media.giphy.com/media/yx0JMbLoVvqA8/giphy.gif">')
       }
       else if(count === 6) {
           $("#image-holder").show();
-          $("#image-holder").html('<img src="assets/images/flyby.gif>');
+          $("#image-holder").html('<img src="assets/images/topgunkelly.jpg">');
       }
       else if(count === 7) {
           $("#image-holder").show();
-          $("#image-holder").html('<img src="assets/images/neville_longbottom.jpg">');
+          $("#image-holder").html('<img src="assets/images/riptonyscott.jpg">');
       }
   }
 
